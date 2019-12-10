@@ -1,3 +1,19 @@
 page-home {
 
+    .content.content-md{
+        background-color: cadetblue;
+    }
+
+    .card{
+        border-radius: 20px;
+    }
+
+    .card:hover{
+        background-color: #a4bce9;
+    }
+
+    .icon-cards{
+        height: 100px;
+        width: 100px;
+    }
 }
